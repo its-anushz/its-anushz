@@ -8,7 +8,7 @@
   
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=1200&lines=M.Tech+(ML%2FAI)+%F0%9F%8E%93+%7C+Frontend+Dev+%F0%9F%92%BB+%7C+Agentic+AI+%F0%9F%9A%80+%7C+Creative+Thinker+%F0%9F%8C%88" alt="Interests Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=1200&lines=ML%2FAgentic+AI+Enthusiast+%F0%9F%9A%80+%7C+Creative+Thinker+%F0%9F%8C%88+%7C+M.Tech+(ML%2FAI)+%F0%9F%8E%93" alt="Interests Animation" />
   
   <br/>
   <br/>
