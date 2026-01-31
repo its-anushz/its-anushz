@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Anushree%20K%20C&fontSize=80&animation=fadeIn&fontAlignY=35&desc=M.Tech%20CS%20(Machine%20Learning)&descAlignY=55" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Anushree%20K%20C&fontSize=80&animation=fadeIn&fontAlignY=35&desc=M.Tech%20CS%20(Machine%20Learning)&descAlignY=55" alt="Header Banner" width="100%" />
 
   <br/>
 
@@ -13,7 +13,7 @@
   <br/>
   <br/>
   
-  <a href="https://github.com/its-anushz"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://anushree-kc-a3trglh.gamma.site/anushree-portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge" alt="Portfolio"/></a>
 </div>
 
 <hr/>
